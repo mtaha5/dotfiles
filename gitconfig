@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = 148873481+mtaha5@users.noreply.github.com
+	name = mazin taha
